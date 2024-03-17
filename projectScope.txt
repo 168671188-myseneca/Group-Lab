@@ -1,0 +1,6 @@
+The scope of this project is to collaboratively create a fully functioning Rock Paper Scissors program.
+
+The first iteration is to lay out the ground work of the program. This creates the general foundation of the game, where the player may decide their pick against the opposing computer. 
+The first QA Testing is to spot an error which brings the program to a halt. As the player cannot resume with the program. An issue is created via GitHub to address the concern among collaborators.
+Followed by the second iteration, which continues building upon the program. Inside the main function, a replay feature is integrated into the game. Prompting the user should they want to play the game again.
+The second QA Testing is to test the game following the changes after the previous iteration. With the issue addressed, it will have to be closed by another fellow collaborator.
