@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" modified="2024-03-17T20:41:58.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="Yy6BEzZU-OlKca2ni8Hx" version="24.0.7" type="google">
+  <diagram name="Page-1" id="5KUzbmAGb6djkwPRC_II">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Pzl40JHpZa36W9LLx949-1" value="&lt;blockquote&gt;&lt;font style=&quot;font-size: 25px;&quot; face=&quot;Comic Sans MS&quot;&gt;Rock&amp;nbsp;&lt;/font&gt;&lt;/blockquote&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="90" y="140" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="z5GXx9lI--2IWafla8_d-3" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Comic Sans MS&quot;&gt;Scissors&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="130" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="z5GXx9lI--2IWafla8_d-4" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Comic Sans MS&quot;&gt;Paper&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="z5GXx9lI--2IWafla8_d-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;curved=1;edgeStyle=orthogonalEdgeStyle;exitX=0.988;exitY=0.564;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="z5GXx9lI--2IWafla8_d-4" target="z5GXx9lI--2IWafla8_d-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="380" as="sourcePoint" />
+            <mxPoint x="570" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5GXx9lI--2IWafla8_d-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;curved=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="Pzl40JHpZa36W9LLx949-1" target="z5GXx9lI--2IWafla8_d-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="320" as="sourcePoint" />
+            <mxPoint x="140" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5GXx9lI--2IWafla8_d-26" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.976;exitY=0.282;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.364;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Pzl40JHpZa36W9LLx949-1" target="z5GXx9lI--2IWafla8_d-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="250" as="sourcePoint" />
+            <mxPoint x="470" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPAvcLiajETmH7iK5DRR-1" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Comic Sans MS&quot;&gt;Paper&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Tahoma&quot;&gt;Beats Rock&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="430" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CPAvcLiajETmH7iK5DRR-2" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Comic Sans MS&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Rock&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Tahoma&quot;&gt;Beats Scissors&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="90" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CPAvcLiajETmH7iK5DRR-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Scissors&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Tahoma&quot;&gt;Beats Paper&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="80" width="90" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
