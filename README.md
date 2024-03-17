@@ -10,4 +10,4 @@ QA Testing #1 by Sofia Hussain
 
 Development – Iteration #2 by Huzaifa Shahab
 
-QA Testing #2 by David Morales
+Scope & QA Testing #2 by David Morales
